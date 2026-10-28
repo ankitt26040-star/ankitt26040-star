@@ -30,10 +30,12 @@ const developer = {
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cpp" alt="languages" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp" alt="Python and C++" />
 </p>
 
+- 🐍 **Python**
+- ⚡ **C++**
 ---
 
 ## 📊 GitHub Stats
